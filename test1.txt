@@ -1,2 +1,3 @@
 test yazısıdır
 
+commit sonrası eklenen satır. Değişimi izle.
