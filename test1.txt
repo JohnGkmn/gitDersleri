@@ -3,3 +3,6 @@ test yazısıdır
 commit sonrası eklenen satır. Değişimi izle.
 
 chapter Two branch test commit
+
+
+checkout chapterOne git commit -am
